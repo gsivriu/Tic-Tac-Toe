@@ -1,0 +1,33 @@
+body {  
+background-color: #7FE1F0
+} 
+
+.cell-option {
+    background: #ffffff;
+    height: 22vmin;
+    width: 22vmin;
+    border: none;
+    border-radius: 8px;
+    font-size: 12vmin;
+    color: #0a0027;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+#startButton{
+    background-color: #FEFEFE;
+    color: #51C4CD;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+#showPlayer{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+    position: fixed;
+    top: 220px;
+    left:120px;
+    height: 50px;
+    width: 100px;
+   }
+ 
